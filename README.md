@@ -1,2 +1,2 @@
-# baesball_predict
+# baseball_predict
 for refactoring my first python project
