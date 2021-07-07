@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# trained Models
+*.pkl
+
+# just test
+test/
